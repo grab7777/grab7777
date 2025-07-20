@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @grab7777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, Python, C, C# and Java- / TypeScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @grab7777 🇨🇭
+- 👀 I’m interested in jobs in software development, especially web development with a focus on Next.js / React
+- 🌱 I have worked on projects with JavaScript / TypeScript, Java, Python, C, C# and also some Kotlin
 
 <!---
 grab7777/grab7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
